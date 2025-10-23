@@ -56,11 +56,9 @@ python cctv_hack_spyson.py
 
 
 ## Pocs (Output) :
-![DVR_poc_4](screenshot/output.jpg)
-# Dork:
-
-![DVR_dorks_2](screenshot/d1.jpg)
-![DVR_dorks_3](screenshot/d2.png)
+![DVR_poc_4](screenshot/otputt.jpg)
+# DoDork![DVR_dorks_2](screenshot/d1.jpg)
+![DVR_dorks_3](screenshot/d2.ppng
 
 ## Possible Banners frontend (web):
 ![DVR_login_1](screenshot/login1.jpg)
